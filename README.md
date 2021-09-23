@@ -1,3 +1,3 @@
-# 23 September
+# Our first project in Git
 
 
